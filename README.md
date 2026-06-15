@@ -1,9 +1,9 @@
 
-## 👋 Oiê, boas-vindas!  
+## 👋 Olá, boas-vindas!  
 
 Me chamo **Ivanildo Valadão**, sou entusiasta de tecnologia e apaixonado por dados e desenvolvimento de software. Com uma jornada que começou na infância, sempre fui curioso sobre como as coisas funcionam, desmontando peças de computador e explorando o mundo digital.
 
-Na tecnologia, encontrei minha verdadeira paixão. **Cientista de Dados e Engenheiro de Dados** com sólida experiência em transformação digital, atuo com **Machine Learning, modelagem preditiva e desenvolvimento de pipelines analíticos em ambientes cloud** (Azure e AWS). Tenho uma trajetória em empresas nacionais e multinacionais dos setores de agronegócio, alimentos, tecnologia, educação e vestuário.
+Na tecnologia, encontrei minha verdadeira paixão. **Desenvolvimento de Sistemas, Cientista de Dados e Engenheiro de Dados** com sólida experiência em transformação digital, atuo com **Machine Learning, modelagem preditiva e desenvolvimento de pipelines analíticos em ambientes cloud** (Azure e AWS). Tenho uma trajetória em empresas nacionais e multinacionais dos setores de agronegócio, alimentos, tecnologia, educação e vestuário.
 
 Minha expertise abrange desde a **arquitetura e engenharia de dados** até a **liderança e mentoria de equipes multidisciplinares**, sempre focando em soluções orientadas por dados e resultados estratégicos. Trabalho com Python, SQL, Spark, ferramentas de BI e cloud computing, transformando dados em insights acionáveis para o negócio.
 
@@ -29,7 +29,7 @@ Sinta-se à vontade para mandar uma mensagem no [LinkedIn](https://www.linkedin.
 ### Frameworks & Bibliotecas
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff)
-![NEXT.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff)
 ![Nestjs](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff)
