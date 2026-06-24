@@ -74,6 +74,13 @@ Sinta-se à vontade para mandar uma mensagem no [LinkedIn](https://www.linkedin.
 ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
 
+### Cloud Computing - OCI Oralce
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=fff)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?logo=oracle&logoColor=fff)
+![VMs Oracle](https://img.shields.io/badge/VMs%20Oracle-F80000?logo=oracle&logoColor=fff)
+![OCI Containers](https://img.shields.io/badge/OCI%20Containers-F80000?logo=oracle&logoColor=fff)
+![IAM Oracle](https://img.shields.io/badge/IAM%20Oracle-F80000?logo=oracle&logoColor=fff)
+
 ### Bancos de Dados
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff)
