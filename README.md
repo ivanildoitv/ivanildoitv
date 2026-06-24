@@ -3,7 +3,7 @@
 
 Me chamo **Ivanildo Valadão**, sou entusiasta de tecnologia e apaixonado por dados e desenvolvimento de software. Com uma jornada que começou na infância, sempre fui curioso sobre como as coisas funcionam, desmontando peças de computador e explorando o mundo digital.
 
-Na tecnologia, encontrei minha verdadeira paixão. **Desenvolvimento de Sistemas, Cientista de Dados e Engenheiro de Dados** com sólida experiência em transformação digital, atuo com **Machine Learning, modelagem preditiva e desenvolvimento de pipelines analíticos em ambientes cloud** (Azure e AWS). Tenho uma trajetória em empresas nacionais e multinacionais dos setores de agronegócio, alimentos, tecnologia, educação e vestuário.
+Na tecnologia, encontrei minha verdadeira paixão. **Desenvolvimento de Sistemas, Cientista de Dados e Engenheiro de Dados** com sólida experiência em transformação digital, atuo com **Machine Learning, modelagem preditiva e desenvolvimento de pipelines analíticos em ambientes cloud** (Azure, AWS, GCP, OCI). Tenho uma trajetória em empresas nacionais e multinacionais dos setores de agronegócio, alimentos, tecnologia, educação e vestuário.
 
 Minha expertise abrange desde a **arquitetura e engenharia de dados** até a **liderança e mentoria de equipes multidisciplinares**, sempre focando em soluções orientadas por dados e resultados estratégicos. Trabalho com Python, SQL, Spark, ferramentas de BI e cloud computing, transformando dados em insights acionáveis para o negócio.
 
