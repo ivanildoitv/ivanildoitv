@@ -1,0 +1,8 @@
+.vscode/*
+.playwright-mcp/
+settings.json
+Privado/
+Roteiro.md
+*.pdf
+Book/Cloud/quadrant.png
+emailmananger-tmp/
